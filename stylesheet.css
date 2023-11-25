@@ -1,0 +1,10 @@
+.countryInfo{
+    border: solid black 1px;
+    margin-top: 1rem;
+    max-width: 10rem;
+    padding: 1rem;
+}
+
+.countryName{
+    font-size: 1.5rem;
+}
